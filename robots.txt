@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veyameetltd.github.io/tech-help-made-simple/sitemap.xml
